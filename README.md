@@ -1,0 +1,2 @@
+# gane
+my first repository
